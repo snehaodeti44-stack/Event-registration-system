@@ -1,0 +1,21 @@
+--- Event Registration System ---
+1. Register Participant
+2. View Participants
+3. Exit
+
+Enter your choice: 1
+
+Enter Participant Name: Sneha
+Enter Email: sneha@gmail.com
+Enter Event Name: Python Workshop
+
+Registration Successful!
+
+Enter your choice: 2
+
+Registered Participants:
+Name: Sneha, Email: sneha@gmail.com, Event: Python Workshop
+
+Enter your choice: 3
+
+Thank You!
